@@ -1,0 +1,38 @@
+[
+  {
+    "id": "Eruptions",
+    "text": {
+      "en": "Eruptions",
+      "de": "Ausbrüche",
+      "es": "Erupciones",
+      "fr": "Éruptions"
+    }
+  },
+  {
+    "id": "Duration",
+    "text": {
+      "en": "Duration",
+      "de": "Dauer",
+      "es": "Duración",
+      "fr": "Durée"
+    }
+  },
+   {
+     "id": "Interval",
+     "text": {
+       "en": "Interval",
+       "de": "Intervall",
+       "es": "Intervalo",
+       "fr": "Intervalle"
+     }
+   },
+    {
+      "id": "in minutes",
+      "text": {
+        "en": "in minutes",
+        "de": "in wenigen Minuten",
+        "es": "en minutos",
+        "fr": "en quelques minutes"
+    }
+  }
+]
